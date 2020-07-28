@@ -28,4 +28,4 @@ Please note that in most cases the username above will be correct, however pleas
 
 ## without putty
 
-<img src="xp.PNG">
+<img src="xp1.PNG">
