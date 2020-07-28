@@ -44,5 +44,8 @@ Please note that in most cases the username above will be correct, however pleas
 sudo yum-config-manager --add-repo https://github.com/MahmoudHegazi/May_Front_End_Geeks
 ```
 
+<img src="add_repo.PNG">
+<img src="add2.PNG">
+
 
 
