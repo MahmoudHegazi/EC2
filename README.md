@@ -25,3 +25,7 @@ ec2-52-29-233-101.eu-central-1.compute.amazonaws.com
 ssh -i "server_key.pem" ubuntu@ec2-52-29-233-101.eu-central-1.compute.amazonaws.com
 Please note that in most cases the username above will be correct, however please ensure that you read your AMI usage instructions to ensure that the AMI owner has not changed the default AMI username.
 
+
+## without putty
+
+<img src="xp.PNG">
