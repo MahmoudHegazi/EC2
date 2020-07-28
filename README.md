@@ -1,3 +1,11 @@
+## important links
+
+1.  https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateWebServer.html
+2.  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-repositories.html
+
+first time install use : sudo apt update and sudo apt upgrade
+then sudo apt install yum
+
 # EC2
 How to use EC2 part 0
 
@@ -29,3 +37,12 @@ Please note that in most cases the username above will be correct, however pleas
 ## without putty
 
 <img src="xp1.PNG">
+
+## check how many repo, and add new repo
+*  Command
+```code
+sudo yum-config-manager --add-repo https://github.com/MahmoudHegazi/May_Front_End_Geeks
+```
+
+
+
