@@ -1,6 +1,8 @@
 # EC2
 How to use EC2 part 0
 
+EC2 IP
+52.29.233.101
 
 ## Connection method
 A standalone SSH client 
